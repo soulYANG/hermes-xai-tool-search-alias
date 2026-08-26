@@ -1,0 +1,14 @@
+name: xai-tool-search-alias
+version: 0.1.0
+description: Collision-safe xAI wire aliases for Hermes tool_search
+kind: standalone
+manifest_version: 2
+api_version: 1
+author: soulYANG
+license: MIT
+homepage: https://github.com/soulYANG/hermes-xai-tool-search-alias
+tags:
+  - xai
+  - middleware
+  - tool-calling
+  - compatibility
