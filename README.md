@@ -1,5 +1,7 @@
 # hermes-xai-tool-search-alias
 
+English · [中文](README.zh-CN.md)
+
 Community workaround for [Hermes Agent #95003](https://github.com/NousResearch/hermes-agent/issues/95003):
 
 ```text
